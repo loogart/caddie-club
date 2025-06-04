@@ -15,7 +15,7 @@ body{
   color:var(--dark-brown);
   background-color: var(--beige);
   line-height: 1.4;
-  font-size: .9em;
+  font-size: 1.1em;
 }
 
 p.lead{
@@ -25,6 +25,10 @@ p.lead{
 h1, h2, h3, h4, h5, h6{
     font-weight: 600;
     line-height: 100%;
+}
+
+h1{
+    font-size: 2.75em;
 }
 
 a{
@@ -51,7 +55,7 @@ a{
 }
 
 .logo-nav{
-    width:120px;
+    width:200px;
 }
 
 .btn-caddie{
@@ -149,4 +153,7 @@ footer{
         width:100%;
         height:300px;
     }
+    h1{
+    font-size: 2.25em;
+}
 }
