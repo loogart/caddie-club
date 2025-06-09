@@ -59,10 +59,9 @@ a{
 }
 
 .btn-caddie{
-    background-color: var(--green); 
+background-color: var(--green); 
   color: white;            
   border: 2px solid var(--gold);  
-  padding: 10px 20px;     
   border-radius: 12px;   
   font-weight: 400;
   transition: all 0.3s ease;
